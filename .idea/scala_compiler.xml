@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Progetto Voli,flight-api,progetto-voli,progetto-voli_1694,progetto-voli_4897,src,src_2838" />
+  </component>
+</project>

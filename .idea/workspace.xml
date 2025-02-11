@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5c55a33-fbcb-424e-9e0a-0c72896bf4d3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__scala_sdk_2_12_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/libraries/sbt__scala_sdk_2_12_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Progetto Voli.Progetto Voli-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/modules/Progetto Voli.Progetto Voli-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/gitignore/JENKINS_HOME.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/gitignore/JENKINS_HOME.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/gitignore/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/gitignore/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/gitignore/community/Golang/Go.AllowList.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/gitignore/community/Golang/Go.AllowList.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/backend/data/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/.bsp/sbt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules/src.src-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/.idea/modules/src.src-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/FlightControllerAKKA.scala" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/scala/com/example/FlightControllerAKKA.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/FlightCoordinates.scala" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/scala/com/example/FlightCoordinates.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/FlightDataPreprocessor.scala" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/scala/com/example/FlightDataPreprocessor.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/FlightPredictions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/scala/com/example/FlightPredictions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/FlightServer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/scala/com/example/FlightServer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/MergeCSV.scala" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/scala/com/example/MergeCSV.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/example/PrecomputedResults.scala" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/scala/com/example/PrecomputedResults.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$2dcb50d39585d42a27ad$.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$2dcb50d39585d42a27ad$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$2dcb50d39585d42a27ad.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$2dcb50d39585d42a27ad.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$2dcb50d39585d42a27ad.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$2dcb50d39585d42a27ad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$7d50b00f19a747600264$.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$7d50b00f19a747600264$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$7d50b00f19a747600264.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$7d50b00f19a747600264.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$7d50b00f19a747600264.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$7d50b00f19a747600264.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$7e235720999f5755fcf8$.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$7e235720999f5755fcf8$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$7e235720999f5755fcf8.cache" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$7e235720999f5755fcf8.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/config-classes/$7e235720999f5755fcf8.class" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/config-classes/$7e235720999f5755fcf8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/idea-classes/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/idea-classes/build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/scala-2.12/sbt-1.0/sync/copy-resource" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/scala-2.12/sbt-1.0/sync/copy-resource" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/_global/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/_global/_global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/bspReporter/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/compile/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/scala-2.12/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/csrConfiguration/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/csrProject/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/ivyConfiguration/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/ivySbt/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/moduleSettings/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/compile/scalacOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/compile/unmanagedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/compile/unmanagedClasspath/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/compile/unmanagedJars/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/runtime/unmanagedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/runtime/unmanagedClasspath/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/runtime/unmanagedJars/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/test/unmanagedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/test/unmanagedClasspath/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/test/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/target/streams/test/unmanagedJars/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/src">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="src" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2sWmTaHtDuvxMq4SNIh6PDPfnmK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightController (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightController.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightControllerAKKA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightCoordinates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightDataPreprocessor.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FlightPrediction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightPredictionApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlightServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LetturaDataset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/giuse/Desktop/giuseppe/Big_Data/progetto/Progetto Voli&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\giuse\Desktop\Progetto Voli" />
+      <recent name="C:\Users\giuse\Desktop\Progetto Voli\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FlightServer">
+    <configuration name="FlightCoordinates" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.FlightCoordinates" />
+      <module name="Progetto Voli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightPrediction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.FlightPrediction" />
+      <module name="Progetto Voli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightPredictionApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.FlightPredictionApp" />
+      <module name="Progetto Voli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightServer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.FlightServer" />
+      <module name="Progetto Voli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.Main" />
+      <module name="Progetto Voli" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="progetto-voli" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="progetto-voli" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FlightPredictionApp" />
+      <item itemvalue="Application.FlightCoordinates" />
+      <item itemvalue="Application.FlightPrediction" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FlightServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FlightServer" />
+        <item itemvalue="Application.FlightPredictionApp" />
+        <item itemvalue="Application.FlightCoordinates" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FlightPrediction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5c55a33-fbcb-424e-9e0a-0c72896bf4d3" name="Changes" comment="" />
+      <created>1738579716108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738579716108</updated>
+    </task>
+    <servers />
+  </component>
+</project>
